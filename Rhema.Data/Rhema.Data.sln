@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhema.Data", "Rhema.Data.csproj", "{C714BBE7-E088-43EE-8F37-BEF38D6F2D8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhema.Core", "..\Rhema.Core\Rhema.Core.csproj", "{F4BD3EAE-B69A-4574-8910-5D9ADF36C3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C714BBE7-E088-43EE-8F37-BEF38D6F2D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C714BBE7-E088-43EE-8F37-BEF38D6F2D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C714BBE7-E088-43EE-8F37-BEF38D6F2D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C714BBE7-E088-43EE-8F37-BEF38D6F2D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BD3EAE-B69A-4574-8910-5D9ADF36C3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BD3EAE-B69A-4574-8910-5D9ADF36C3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BD3EAE-B69A-4574-8910-5D9ADF36C3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BD3EAE-B69A-4574-8910-5D9ADF36C3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165B0E46-8674-4052-89D8-AF1C36DB6960}
+	EndGlobalSection
+EndGlobal
